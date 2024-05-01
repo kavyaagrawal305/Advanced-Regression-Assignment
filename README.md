@@ -80,8 +80,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 Give credit here.
 - This project was inspired by - as an assignment of Upgrad
 
-## Contact
-Created by [@abhijit12banerjee] - feel free to contact me!
+
 
 
 <!-- Optional -->
